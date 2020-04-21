@@ -1,0 +1,5 @@
+Para rodar o servidor instale todas as dependências 
+Acesse a pasta Servers e digite o seguinte comando - npm install -g json-server
+
+Subindo o servidor
+json-servee --watch db.json
